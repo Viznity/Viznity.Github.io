@@ -1,0 +1,86 @@
+*--------------------------------------------------------------
+# Scrollbar
+--------------------------------------------------------------*/
+
+/* Works on Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: gray pink;
+}
+
+/* Works on Chrome, Edge, and Safari */
+body::-webkit-scrollbar {
+  width: 1em;
+}
+
+body:hover::-webkit-scrollbar-thumb {
+  background-color: #9f1374;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #c3128d;
+  height: 8px;
+  border-radius:15px;
+}
+
+body::-webkit-scrollbar-track {
+  background-color: #303030;
+}
+
+body:hover::-webkit-scrollbar-track {
+  background-color: #272727;
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+/*--------------------------------------------------------------
+# Responsive iFrame Scaler (Mobile etc..)
+--------------------------------------------------------------*/
+
+.iframe-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 50%;
+  background: lightgrey;
+}
+
+.iframe-container iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border: 1px solid red;
+}
+
+/*--------------------------------------------------------------
+# Spoiler button
+--------------------------------------------------------------*/
+
+.spoiler {
+  border: 1px solid #9814dd;
+  padding: 2px;
+  background: #040B14;
+}
+
+.spoiler-btn:hover {
+  cursor: pointer;
+  color: #37b3ed;
+}
+.spoiler-btn-bottom {
+  width: 100%;
+  text-align: right;
+}
+
+.spoiler-body {
+  display: none;
+}
+
+#content {
+  max-height: 640px;
+  width: 100%;
+  max-width: 570px;
+  margin: auto;
+}
+

@@ -101,12 +101,12 @@ p {
 }
 
 @font-face {
-    src: url(../fonts/BarlowCondensed-Bold.ttf);
+    src: url(../webfonts/BarlowCondensed-Bold.ttf);
     font-family: bb;
 }
 
 @font-face {
-    src: url(../fonts/BarlowCondensed-Regular.ttf);
+    src: url(../webfonts/BarlowCondensed-Regular.ttf);
     font-family: br;
 }
 
@@ -133,7 +133,7 @@ p {
 }
 
 .loader-box {
-    color: #e50914;
+    color: #c3128d;
     -webkit-animation-duration: 3s;
     animation-duration: 3s;
     width: 44px;
@@ -152,7 +152,7 @@ p {
 
 .loader-box svg rect {
     fill: none;
-    stroke: #e50914;
+    stroke: #c3128d;
     stroke-width: 10px;
     stroke-linejoin: round;
     stroke-linecap: round;
@@ -217,7 +217,7 @@ p {
 }
 
 .modal-title b {
-    color: #e50914;
+    color: #c3128d;
 }
 
 #contact-model-large .modal-title {
@@ -249,7 +249,7 @@ p {
 }
 
 .model-btn {
-    border: 1px solid #e50914;
+    border: 1px solid #c3128d;
     padding: 10px 20px !important;
 }
 
@@ -288,7 +288,7 @@ p {
     width: 25px;
     height: 25px;
     line-height: 25px;
-    background: #e50914;
+    background: #c3128d;
     border-radius: 50%;
     text-align: center;
 }
@@ -324,7 +324,7 @@ p {
 }
 
 .logoss span {
-    color: #e50914;
+    color: #c3128d;
 }
 
 .logoss:hover {
@@ -501,7 +501,7 @@ p {
 }
 
 .login-12 .bg-img .social-list li a:hover {
-    color: #e50914;
+    color: #c3128d;
 }
 
 .login-12 .login-inner-form input[type=checkbox],
@@ -521,7 +521,7 @@ input[type=radio] {
 }
 
 .login-12 .login-inner-form .btn-theme {
-    background: #e50914;
+    background: #c3128d;
     font-size: 18px;
     font-family: br;
     border: none;
@@ -582,8 +582,8 @@ input[type=radio] {
 }
 
 .login-12 .login-inner-form .checkbox-theme input[type="checkbox"]:checked + label::before {
-    background-color: #e50914;
-    border-color: #e50914;
+    background-color: #c3128d;
+    border-color: #c3128d;
 }
 
 .login-12 .login-inner-form input[type=checkbox]:checked + label:before {
@@ -601,7 +601,7 @@ input[type=radio] {
 
 .login-12 .login-inner-form .checkbox a {
     font-size: 14px;
-    color: #e50914;
+    color: #c3128d;
     float: right;
 }
 
@@ -635,7 +635,7 @@ input[type=radio] {
 
 /* version 3*/
 .index3 #banner {
-    background: url(../images/banner-bg.jpg);
+    background: url(../images/gallery/ashley-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -712,7 +712,7 @@ input[type=radio] {
 }
 
 .inner-page #inner-banner a {
-    color: #e50914;
+    color: #c3128d;
     font-family: bb;
     font-size: 19px;
 }
@@ -752,7 +752,7 @@ input[type=radio] {
     width: 25px;
     height: 25px;
     line-height: 25px;
-    background: #e50914;
+    background: #c3128d;
     color: white;
     position: absolute;
     top: 0;
@@ -764,14 +764,14 @@ input[type=radio] {
     width: 100%;
     font-size: 19px;
     font-family: bb;
-    background: #e50914;
-    border: 1px solid #e50914;
+    background: #c3128d;
+    border: 1px solid #c3128d;
     margin-top: 15px;
 }
 
 .inner-page .coupon-btn:hover {
-    background: #bf000a;
-    border: 1px solid #bf000a;
+    background: #c312ac;
+    border: 1px solid #c312ac;
 }
 
 .inner-page .checkout-box {
@@ -836,7 +836,7 @@ input[type=radio] {
 }
 
 .navbar-light .navbar-brand span {
-    color: #e50914;
+    color: #c3128d;
 }
 
 .navbar-light .navbar-nav .nav-link i {
@@ -858,7 +858,7 @@ input[type=radio] {
     height: 50px;
     line-height: 50px;
     text-align: center;
-    background: #e50914;
+    background: #c3128d;
     color: #fff;
     border-radius: 50%;
 }
@@ -878,7 +878,7 @@ input[type=radio] {
     border-radius: 50%;
     text-align: center;
     line-height: 20px;
-    background: #e50914;
+    background: #c3128d;
     color: white;
     font-size: 13px;
     font-family: bb;
@@ -950,8 +950,8 @@ input[type=radio] {
     font-family: bb;
     margin-top: 61px;
     margin-left: -45px;
-    background: #e50914;
-    border-color: #e50914;
+    background: #c3128d;
+    border-color: #c3128d;
     border-radius: 0;
 }
 
@@ -966,8 +966,8 @@ input[type=radio] {
     top: 15px;
     right: 14px;
     color: #fff;
-    background-color: #e50914;
-    border-color: #e50914;
+    background-color: #c3128d;
+    border-color: #c3128d;
     opacity: 1;
     padding: 5px 15px 10px 15px;
     font-size: 30px;
@@ -1016,7 +1016,7 @@ input[type=radio] {
 }
 
 .custom-menubar .menu-link:hover {
-    color: #e50914;
+    color: #c3128d;
     cursor: pointer;
 }
 
@@ -1028,7 +1028,7 @@ input[type=radio] {
     position: absolute;
     right: 30px;
     top: 30px;
-    background: #e50914;
+    background: #c3128d;
     line-height: 55px;
     border-radius: 50%;
     text-align: center;
@@ -1039,7 +1039,7 @@ input[type=radio] {
     width: 25px;
     height: 25px;
     line-height: 25px;
-    background: #e50914;
+    background: #c3128d;
     border-radius: 50%;
     position: relative;
     top: -11px;
@@ -1063,7 +1063,7 @@ input[type=radio] {
     border-radius: 50%;
     text-align: center;
     line-height: 19px;
-    background: #e50914;
+    background: #c3128d;
     color: white;
     font-size: 13px;
     font-family: bb;
@@ -1110,7 +1110,7 @@ input[type=radio] {
 }
 
 .backtotop:hover i {
-    background: #e50914;
+    background: #c3128d;
     color: white;
 }
 
@@ -1121,10 +1121,10 @@ input[type=radio] {
 .banner-txt h3 {
     font-family: bb;
     font-size: 100px;
-    -webkit-text-stroke-color: #e50914;
+    -webkit-text-stroke-color: #c3128d;
     -webkit-text-fill-color: #FFF;
     -webkit-text-stroke-width: 1px;
-    text-shadow: 2px 2px 0 #e50914;
+    text-shadow: 2px 2px 0 #c3128d;
 }
 
 .banner-txt p {
@@ -1139,7 +1139,7 @@ input[type=radio] {
     color: white;
     font-size: 18px;
     font-family: bb;
-    background: #e50914;
+    background: #c3128d;
     position: relative;
     overflow: hidden;
     -webkit-transition: all linear .3s;
@@ -1151,7 +1151,7 @@ input[type=radio] {
 
 .main-btn:hover {
     color: #fff;
-    background: #bf000a;
+    background: #c312ac;
     cursor: pointer;
 }
 
@@ -1172,7 +1172,7 @@ input[type=radio] {
     left: 0;
     width: 200px;
     height: 200px;
-    background: #e50914;
+    background: #c3128d;
     border-radius: 50%;
 }
 
@@ -1183,7 +1183,7 @@ input[type=radio] {
     left: -10px;
     width: 30px;
     height: 30px;
-    background: #e50914;
+    background: #c3128d;
     border-radius: 50%;
 }
 
@@ -1192,7 +1192,7 @@ input[type=radio] {
     width: 90px;
     height: 90px;
     background: white;
-    color: #e50914;
+    color: #c3128d;
     line-height: 94px;
     text-align: center;
     border-radius: 50%;
@@ -1206,7 +1206,7 @@ input[type=radio] {
 }
 
 .vid-btn i:hover {
-    background: #e50914;
+    background: #c3128d;
     color: white;
 }
 
@@ -1366,7 +1366,7 @@ input[type=radio] {
 .game-box span {
     font-size: 19px;
     font-family: br;
-    color: #e50914;
+    color: #c3128d;
     text-transform: uppercase;
     letter-spacing: 6px;
 }
@@ -1395,15 +1395,15 @@ input[type=radio] {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: rgba(229, 9, 20, 0.7);
+    background: rgba(240, 0, 240, 0.5);
     left: 0;
     top: 0;
     -webkit-transform: scale(0);
     -ms-transform: scale(0);
     transform: scale(0);
-    -webkit-transition: all linear .3s;
-    -o-transition: all linear .3s;
-    transition: all linear .3s;
+    -webkit-transition: all linear .2s;
+    -o-transition: all linear .2s;
+    transition: all linear .2s;
 }
 
 .lightbox-overlay a {
@@ -1417,7 +1417,7 @@ input[type=radio] {
 
 .lightbox-overlay a i {
     font-size: 25px;
-    color: white;
+    color: pink;
 }
 
 .game-img:hover .lightbox-overlay {
@@ -1438,10 +1438,10 @@ input[type=radio] {
     font-size: 110px;
     font-family: bb;
     color: white;
-    -webkit-text-stroke-color: #e50914;
+    -webkit-text-stroke-color: #c3128d;
     -webkit-text-fill-color: #FFF;
     -webkit-text-stroke-width: 1px;
-    text-shadow: 2px 2px 0 #e50914;
+    text-shadow: 2px 2px 0 #c3128d;
     position: relative;
     padding-bottom: 8px;
 }
@@ -1454,7 +1454,7 @@ input[type=radio] {
     width: 30px;
     height: 2px;
     background: none;
-    border: 3px solid #e50914;
+    border: 3px solid #c3128d;
 }
 
 .about-pt {
@@ -1468,7 +1468,7 @@ input[type=radio] {
 .about-txt span {
     font-size: 19px;
     font-family: br;
-    color: #e50914;
+    color: #c3128d;
     text-transform: uppercase;
     letter-spacing: 6px;
 }
@@ -1483,7 +1483,7 @@ input[type=radio] {
 }
 
 .about-txt h3 b {
-    color: #e50914;
+    color: #c3128d;
 }
 
 .about-txt p {
@@ -1518,7 +1518,7 @@ input[type=radio] {
     content: '';
     width: 80px;
     height: 225px;
-    background: #e50914;
+    background: #c3128d;
     left: 11px;
     top: 50%;
     -webkit-transform: translateY(-50%);
@@ -1528,7 +1528,7 @@ input[type=radio] {
 }
 
 .about-txt-overlay {
-    background: #e50914;
+    background: #c3128d;
     width: 150px;
     height: 150px;
     padding: 7px 0;
@@ -1566,8 +1566,8 @@ input[type=radio] {
     width: 80px;
     height: 80px;
     line-height: 80px;
-    border: 3px solid #e50914;
-    color: #e50914;
+    border: 3px solid #c3128d;
+    color: #c3128d;
     border-radius: 50%;
     font-size: 29px;
 }
@@ -1587,7 +1587,7 @@ input[type=radio] {
 }
 
 .counter-item span b {
-    color: #e50914;
+    color: #c3128d;
 }
 
 .counter-item p {
@@ -1622,7 +1622,7 @@ input[type=radio] {
 }
 
 .live-match-item:hover {
-    background: #e50914;
+    background: #c3128d;
 }
 
 .live-match-item:hover h3,
@@ -1651,7 +1651,7 @@ input[type=radio] {
 
 .match-btn {
     font-family: bb;
-    color: #e50914;
+    color: #c3128d;
     text-transform: uppercase;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
@@ -1660,7 +1660,7 @@ input[type=radio] {
 
 .match-btn i {
     font-size: 9px;
-    color: #e50914;
+    color: #c3128d;
     padding-left: 3px;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
@@ -1736,7 +1736,7 @@ input[type=radio] {
     width: 90px;
     height: 90px;
     background: white;
-    color: #e50914;
+    color: #c3128d;
     border-radius: 50%;
     text-align: center;
     line-height: 90px;
@@ -1747,7 +1747,7 @@ input[type=radio] {
 }
 
 .video-overlay a i:hover {
-    background: #e50914;
+    background: #c3128d;
     color: white;
 }
 
@@ -1787,7 +1787,7 @@ input[type=radio] {
 }
 
 .player-info {
-    background: #e50914;
+    background: #c3128d;
     width: 70%;
     height: 60px;
     position: relative;
@@ -1832,13 +1832,13 @@ input[type=radio] {
 }
 
 .player-txt h3 b {
-    color: #e50914;
+    color: #c3128d;
 }
 
 .player-txt h4 {
     font-size: 62px;
     font-family: bb;
-    color: #e50914;
+    color: #c3128d;
     padding-top: 7px;
     display: inline-block;
 }
@@ -1846,7 +1846,7 @@ input[type=radio] {
 .player-txt span {
     font-size: 62px;
     font-family: bb;
-    color: #e50914;
+    color: #c3128d;
 }
 
 .player-txt p {
@@ -1890,7 +1890,7 @@ input[type=radio] {
 }
 
 .player-lightbox a i:hover {
-    color: #e50914;
+    color: #c3128d;
 }
 
 .player-item:hover .player-lightbox {
@@ -1935,7 +1935,7 @@ input[type=radio] {
 }
 
 .product-btn {
-    color: #e50914;
+    color: #c3128d;
     font-family: bb;
     font-size: 17px;
     text-transform: uppercase;
@@ -1943,14 +1943,14 @@ input[type=radio] {
 }
 
 .product-btn:hover {
-    color: #e50914;
+    color: #c3128d;
 }
 
 .sale {
     width: 50px;
     height: 50px;
     line-height: 50px;
-    background: #e50914;
+    background: #c3128d;
     text-align: center;
     border-radius: 50%;
     position: absolute;
@@ -1986,7 +1986,7 @@ input[type=radio] {
 .join-txt span {
     font-size: 18px;
     font-family: br;
-    color: #e50914;
+    color: #c3128d;
     text-transform: uppercase;
     letter-spacing: 6px;
 }
@@ -2088,7 +2088,7 @@ input[type=radio] {
 =============================*/
 #subscribe {
     padding: 80px 0;
-    background: url(../images/subscribe.jpg);
+    background: url(../images/home/banner-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2117,7 +2117,7 @@ input[type=radio] {
 
 .subscribe-btn {
     padding: 15px 20px;
-    color: #e50914;
+    color: #c3128d;
     font-size: 18px;
     font-family: bb;
     background: white;
@@ -2143,7 +2143,7 @@ input[type=radio] {
 }
 
 .footer-logo a b {
-    color: #e50914;
+    color: #c3128d;
 }
 
 .footer-logo p {
@@ -2176,7 +2176,7 @@ input[type=radio] {
 
 .footer-menu a:hover {
     padding-left: 4px;
-    color: #e50914;
+    color: #c3128d;
 }
 
 .footer-social a i {
@@ -2196,7 +2196,7 @@ input[type=radio] {
 }
 
 .footer-social a i:hover {
-    background: #e50914;
+    background: #c3128d;
 }
 
 /*===========================
