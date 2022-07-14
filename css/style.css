@@ -10,8 +10,8 @@
 
 [Table of contents]
 
-0.0 Common CSS START 
-1.0 HEADER AREA START 
+0.0 Common CSS START
+1.0 HEADER AREA START
 2.0 BANNER AREA START
 3.0 GAMES AREA START
 4.0 ABOUT AREA START
@@ -20,13 +20,13 @@
 7.0 WATCH AREA START
 8.0 BRAND AREA START
 9.0 PLAYER AREA START
-10.0 PRODUCT AREA START 
-11.0 JOIN AREA START 
-12.0 BLOG AREA START 
+10.0 PRODUCT AREA START
+11.0 JOIN AREA START
+12.0 BLOG AREA START
 13.0 SUBSCRIBE AREA START
 14.0 FOOTER AREA START
 15.0 COPY_RIGHT AREA START
- 
+
 /*===========================
 0.0 *** Common CSS START ***
 =============================*/
@@ -635,7 +635,7 @@ input[type=radio] {
 
 /* version 3*/
 .index3 #banner {
-    background: url(../images/gallery/ashley-bg.jpg);
+    background: url(../images/home/black-stone-background.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
