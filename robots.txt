@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /index1.html
+Disallow: /index2.html
+Disallow: /index3.html
+Disallow: /index4.html
+Disallow: /login.html
+Disallow: /signup.html
+Disallow: /card.html
+Sitemap: https://gokdenizcetin.com/sitemap.xml
