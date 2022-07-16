@@ -8,4 +8,4 @@ Disallow: /index4.html
 Disallow: /login.html
 Disallow: /signup.html
 Disallow: /card.html
-Sitemap: https://gokdenizcetin.com/sitemap.xml
+Sitemap: https://viznitygames.com/sitemap.xml
