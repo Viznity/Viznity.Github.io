@@ -2234,12 +2234,12 @@ input[type=radio] {
 
 /* unvisited link */
 a:link {
-  color: hotpink;
+  color: #6C6C6C;
 }
 
 /* visited link */
 a:visited {
-  color: hotpink;
+  color: #6C6C6C;
 }
 
 /* mouse over link */
@@ -2254,10 +2254,10 @@ a:active {
 
 ::-moz-selection { /* Code for Firefox */
   color: white;
-  background: PaleVioletRed;
+  background: deeppink;
 }
 
 ::selection {
   color: white;
-  background: PaleVioletRed;
+  background: deeppink;
 }
