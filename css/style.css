@@ -2231,3 +2231,33 @@ input[type=radio] {
     font-family: bb;
     color: white;
 }
+
+/* unvisited link */
+a:link {
+  color: hotpink;
+}
+
+/* visited link */
+a:visited {
+  color: hotpink;
+}
+
+/* mouse over link */
+a:hover {
+  color: deeppink;
+}
+
+/* selected link */
+a:active {
+  color: red;
+}
+
+::-moz-selection { /* Code for Firefox */
+  color: white;
+  background: PaleVioletRed;
+}
+
+::selection {
+  color: white;
+  background: PaleVioletRed;
+}
